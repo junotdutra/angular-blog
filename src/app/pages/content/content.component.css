@@ -20,8 +20,8 @@
   margin-top: 15px;
  }
 
-
 .content_description > p {
+  width: 400px;
   margin-top: 20px;
-  color: gray;
+  justify-content: center;
 }
